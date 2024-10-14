@@ -1,0 +1,43 @@
+@page "/products"
+
+<h2>Our Products</h2>
+
+<div class="container">
+    <div class="row" >
+        @if (products == null)
+        {
+            <p><em>Loading....</em></p>
+        }
+        else
+        {
+            @foreach (var category in products.GroupBy(p => p.Category))
+            {
+                <div>
+                    <h3>@category.Key.ToUpper()</h3>
+                </div>
+                @foreach (var product in category)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card h-100" style="width: 18rem;">
+                            <img src="@product.Image" class="card-img-top card-image" alt="@product.Title">
+                            <div class="card-body">
+                                <h5 class="card-title">@product.Title</h5>
+                                <p class="card-text">$@product.Price</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        }
+    </div>
+
+</div>
+
+@code {
+    private List<Product> products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.GetProducts();
+    }
+}
