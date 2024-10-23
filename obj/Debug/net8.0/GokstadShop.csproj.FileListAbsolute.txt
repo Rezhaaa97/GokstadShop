@@ -1029,3 +1029,9 @@
 /Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/refint/GokstadShop.dll
 /Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/GokstadShop.pdb
 /Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/ref/GokstadShop.dll
+/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/GokstadShop.sourcelink.json
+/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/_framework/Blazored.LocalStorage.wasm
+/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/_framework/Blazored.LocalStorage.wasm.gz
+/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/Blazored.LocalStorage.dll
+/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/webcil/Blazored.LocalStorage.wasm
+/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/compressed/e7ra9vfxes.gz

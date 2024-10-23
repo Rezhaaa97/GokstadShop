@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/1W1GI8prgbXSx7efCJ+EMmCuO7Z6UwgZfIG8EBVfNy2EHZ18fXMUBLwGYzw4cULKsiWHv5I0LT+oiUUCTL2rQ==",
+  "dgSpecHash": "Am+N7rQ0DWH9PSeDUIxEIzV19FL4bB7P7zUw2u5hV9UQdXH/ScgGhPidl1XRrGEG7mT+gAOAUXyFwurJtocqHQ==",
   "success": true,
   "projectFilePath": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/GokstadShop.csproj",
   "expectedPackageFiles": [
+    "/Users/rejwanraouf/.nuget/packages/blazored.localstorage/4.5.0/blazored.localstorage.4.5.0.nupkg.sha512",
     "/Users/rejwanraouf/.nuget/packages/microsoft.aspnetcore.authorization/8.0.4/microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "/Users/rejwanraouf/.nuget/packages/microsoft.aspnetcore.components/8.0.4/microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
     "/Users/rejwanraouf/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.4/microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",

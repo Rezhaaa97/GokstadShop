@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GokstadShop",
   "resources": {
-    "hash": "sha256-3ahzaEQ3pBGH3hRnAv7huYWyXUim2eKyCvwWGnlcasg=",
+    "hash": "sha256-WL8e90Q0elkwAKzbaCFvlESXe5qGBbDqAVhDTiaZ8xE=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.rn7b1ouv2k.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -17,6 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
+      "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-kcIOasiNC2iD+Tg022f6aTCKnjwzyE8MQTNpQDoIzyw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-DQpYnGUhJtjc5Lun2LKa8TfWW1uZsIf0oaXSKg5o8TY=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-QbQYD1i1kIfQf790hDwaN1AS44hTIDmXGQuabj0OKxo=",
@@ -208,10 +209,10 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "GokstadShop.wasm": "sha256-w68gIepNZ4utkm/umpO3N2E+1FvLPCaxU5wrcCLwuTQ="
+      "GokstadShop.wasm": "sha256-UkfpxOjrmRdYPopCPAfQ0Z1MH16xx6ncvslKivVCP9M="
     },
     "pdb": {
-      "GokstadShop.pdb": "sha256-uAIgBVG4n7DDyLl2EnHLEBCAF6S3D/YbkXuP6ItyF2o="
+      "GokstadShop.pdb": "sha256-ONz9Od6CVC65EiloR0Jl9wBk9C4rSCqKNEBE/7K/XUw="
     }
   },
   "cacheBootResources": true,

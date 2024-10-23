@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4Lit3gv0nYPHAw/yuAM//sF4GWFwl7NpnoQzlvohxyU=",
+  "Hash": "EOVOfQLWbjomVyUKeSKdzbQW5ht2/DuhWoZ2bhcj+TU=",
   "Source": "GokstadShop",
   "BasePath": "/",
   "Mode": "Root",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/rejwanraouf/.nuget/packages/microsoft.aspnetcore.components.webassembly/8.0.4/build/net8.0/blazor.webassembly.js"
+    },
+    {
+      "Identity": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/_framework/Blazored.LocalStorage.wasm",
+      "SourceId": "GokstadShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/webcil/Blazored.LocalStorage.wasm"
     },
     {
       "Identity": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
@@ -5430,6 +5449,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Extensions.wasm"
+    },
+    {
+      "Identity": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/compressed/e7ra9vfxes.gz",
+      "SourceId": "GokstadShop",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/_framework/Blazored.LocalStorage.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/bin/Debug/net8.0/wwwroot/_framework/Blazored.LocalStorage.wasm"
     },
     {
       "Identity": "/Users/rejwanraouf/dev/Gokstad-dev/GokstadShop/obj/Debug/net8.0/compressed/efi0x72p94.gz",

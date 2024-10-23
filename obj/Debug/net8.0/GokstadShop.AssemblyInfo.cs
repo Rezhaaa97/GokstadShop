@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GokstadShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5709dd32e03ad2170905380b6ee08524a5a94ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06866955e32e4c4cc0c9a17ea66dee21da15bce1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GokstadShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GokstadShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

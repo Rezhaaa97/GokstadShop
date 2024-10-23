@@ -14,4 +14,9 @@ public class ProductService
     {
         return await _http.GetFromJsonAsync<List<Product>>("https://fakestoreapi.com/products");
     }
+
+    public async Task<Product> GetProductById(int id)
+    {
+        return await _http.GetFromJsonAsync<Product>($"https://fakestoreapi.com/products/{id}");
+    }
 }
