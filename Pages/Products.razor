@@ -9,6 +9,11 @@
         {
             <p><em>Loading....</em></p>
         }
+        else if (products.Count < 1)
+        {
+            
+            <div class="alert alert-warning"><p>Ingen produkter å vise....</p></div>
+        }
         else
         {
             @foreach (var category in products.GroupBy(p => p.Category))
